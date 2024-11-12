@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container{
+  padding-top: 30px;
+}
+
+
+.logout-button {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
